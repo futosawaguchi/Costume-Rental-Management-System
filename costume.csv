@@ -1,0 +1,17 @@
+1,S,Red,1000,100,7,Available
+2,M,Red,1000,100,7,Available
+3,L,Red,1000,100,7,Available
+4,S,Blue,1200,120,7,Available
+5,M,Blue,1200,120,7,Available
+6,L,Blue,1200,120,7,Available
+7,S,Pink,1300,130,7,Available
+8,M,Pink,1300,130,7,Available
+9,L,Pink,1300,130,7,Available
+10,S,Black,2000,150,14,Available
+11,M,Black,2000,150,14,Rented
+12,L,Black,2000,150,14,Available
+13,S,Green,1500,150,14,Available
+14,M,Green,1500,150,14,Rented
+15,L,Green,1500,150,14,Available
+16,S,Yellow,2000,200,6,Available
+17,M,Yellow,2000,200,6,Available
